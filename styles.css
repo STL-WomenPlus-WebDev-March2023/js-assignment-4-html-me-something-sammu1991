@@ -1,1 +1,47 @@
-/* Write your CSS here! */
+body{
+    background-color:antiquewhite;
+    margin: 8px;
+    display: block;
+}
+
+
+  h1 {
+    text-align: center;
+    color: darkred
+  }
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h4{ text-align: center;
+    color: black
+   }
+
+   div {
+    padding: 25px 50px 75px 100px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* p {
+    width: 100%;
+    height: auto;
+    background-size: 150px;
+    width: 400px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+
